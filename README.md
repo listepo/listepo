@@ -12,13 +12,8 @@ linkedin https://www.linkedin.com/in/ivan-tugay-68101474/
 github   https://github.com/listepo
 ```
 
----
-
-### projects
-
-| | |
-|---|---|
 | **[ketch](https://github.com/listepo/ketch)** | Catch releases from GitHub. Single-binary package manager for CLI tools — macOS, Linux, Windows. |
+|---|---|
 | **[rtok](https://github.com/listepo/rtok)** | Token-reduction for AI coding agents: hooks, MCP, API proxy. |
 | **[stator](https://github.com/listepo/stator)** | Ahead-of-time TypeScript/JavaScript → native binaries. |
 | **[runa](https://github.com/listepo/runa)** | Local-first AI runner: fit checker, llama.cpp, OpenAI-compatible serve. |
